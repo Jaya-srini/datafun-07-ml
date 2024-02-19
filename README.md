@@ -1,4 +1,5 @@
 # datafun-07-ml
+### Purpose: This is a guided project on machine learning. We'll employ a type of supervised learning, simple linear regression, to train a model and use the resulting model (a "best-fit" straight line) to make predictions.
 
 **1.Create GitHub repository and clone to machine** 
 ```
